@@ -1,137 +1,130 @@
-# 🌌 Gowtham — Full-Stack Engineer Portfolio
+# 💼 Gowtham E — Full-Stack Software Engineer Portfolio
 
-> **Zero-G Physics & Anti-Gravity Developer Portfolio** engineered for high performance, smooth particle dynamics, and modern interactive aesthetics.
+> **High-Performance Developer Portfolio** engineered with clean component architecture, interactive zero-gravity particle aesthetics, live email dispatch, and client project integrations.
 
-[![Vercel Deployment](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
-[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python)](https://python.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-
----
-
-## ✨ Features & Architecture
-
-### 1. 🪐 Anti-Gravity / Zero-G Physics Aesthetic
-- **Canvas-based Interactive Starfield:** Brownian zero-G floating dust particles that smoothly deflect away from the cursor using inverse-distance repulsion mathematics.
-- **Dynamic Constellation Tethers:** Subtle SVG and Canvas energy lines that form dynamically between neighboring particles within proximity of the mouse.
-- **Multi-Layer Cursor Parallax:** Perspective-based depth shifts across the hero terminal, orbital satellite badges, and project cards (`rotateX` / `rotateY` transforms).
-- **Glassmorphism Design System:** Tailored deep cosmic void palette (`#08090E`, `#0D1117`), electric cyan (`#00F2FE`), neon violet (`#9D4EDD`), and layered frosted glass surfaces (`backdrop-blur-md`, subtle border glows).
-
-### 2. ⚡ Section Breakdown
-- **Hero Section (Zero-G Launchpad):**
-  - High-impact typography and floating status pill with breathing green light (`Available for high-impact engineering roles`).
-  - Interactive 3D layered code block toggling between **Python Flask Microservice** and **React Custom Zero-G Hook**.
-  - Dual CTAs: "Explore Systems" (smooth scroll) and "Contact Terminal" (triggers micro-terminal).
-- **Interactive Tech Stack (Floating Orbital Field):**
-  - Filter by category: **Frontend**, **Backend & APIs**, **Cloud & Tooling**.
-  - Magnetic badges that tether to complementary architecture layers on hover.
-  - Interactive tooltip inspection for each skill's architectural role.
-- **Featured Projects (Gravitational Pull Cards):**
-  - **Neurostore — Full-Stack E-Commerce Platform:** React, Flask, REST APIs, Azure, Tailwind CSS. Includes interactive architecture flow inspector (Client ↔ API Gateway ↔ Python Engine ↔ Azure).
-  - **Jubilant — Real-Time Catalog & Inventory Web App:** React, State Management, RESTful Endpoints, UI/UX. Includes client latency metrics and state flow inspection.
-- **Experience & Engineering Philosophy:**
-  - Coordinate beam vertical timeline showcasing work as an **Associate Software Engineer**.
-  - Pillars: Low-Latency First, Modular Decoupling, Production Resilience.
-- **Interactive Terminal & Quick Contact Dock:**
-  - Floating bottom dock with command-line micro-terminal (`help`, `skills`, `projects`, `contact`, `email`, `socials`, `clear`).
-  - One-click copy email button with confetti particle feedback and toast notification.
-  - Direct links to GitHub, LinkedIn, and Resume download.
+[![Live on Vercel](https://img.shields.io/badge/Production-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-woad-six-77.vercel.app/)
+[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://gowtham-e2003.github.io/Portfolio/)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Live Deployments
 
-| Category | Technologies |
+| Platform | Deployment URL | Status | Description |
+| :--- | :--- | :--- | :--- |
+| **Vercel (Primary)** | [https://portfolio-woad-six-77.vercel.app/](https://portfolio-woad-six-77.vercel.app/) | ![Active](https://img.shields.io/badge/Live-Online-success?style=flat-square) | Edge-optimized global production deployment |
+| **GitHub Pages** | [https://gowtham-e2003.github.io/Portfolio/](https://gowtham-e2003.github.io/Portfolio/) | ![Active](https://img.shields.io/badge/Live-Online-success?style=flat-square) | Automated GitHub Actions CI/CD pipeline |
+| **Source Repository** | [https://github.com/Gowtham-E2003/Portfolio](https://github.com/Gowtham-E2003/Portfolio) | ![Git](https://img.shields.io/badge/Branch-main-blue?style=flat-square) | Full-stack source code and assets |
+
+---
+
+## 👨‍💻 Candidate Overview
+
+- **Name:** Gowtham E
+- **Role:** Associate Software Engineer
+- **Company:** Staunch Technologies Pvt. Ltd. (Chennai, India)
+- **Education:** B.E. in Computer Science & Engineering (8.105 / 10.0 CGPA) — Rohini College of Engineering & Technology
+- **Primary Stack:** React.js, Python, Flask, Django, Microsoft Azure, RESTful APIs, Modern CSS, SQL
+- **Direct Email:** [dr.gowtham253@gmail.com](mailto:dr.gowtham253@gmail.com)
+- **Direct Phone:** +91 6369998633
+- **LinkedIn:** [gowtham-e-62733b333](https://linkedin.com/in/gowtham-e-62733b333)
+- **GitHub:** [rkmessigb](https://github.com/rkmessigb) / [Gowtham-E2003](https://github.com/Gowtham-E2003)
+
+---
+
+## ✨ Features & Architecture Breakdown
+
+### 1. 🎯 Hero & Profile Display (DP Space)
+- **Custom Profile Card:** Integrated portrait avatar with a radial gold gradient ring, ambient depth shadow, and status badge (`Associate Software Engineer at Staunch Technologies`).
+- **Core Metrics:** Quick-glance counters for industry role, academic CGPA, and cloud deployments.
+- **Interactive CTAs:** "Explore Systems", "Download Resume", and "Contact Terminal".
+
+### 2. ⚡ Technical Skills & Tooling (TechOrbit)
+- **Categorized Groups:** Programming Languages, Frontend Engineering, Backend Systems, and Cloud/DevOps.
+- **Key Technologies:** React.js, Python (Flask/Django), REST APIs, Microsoft Azure, SQL, HTML5/CSS3, Git, Postman.
+
+### 3. 🏢 Industry Experience & Background
+- **Staunch Technologies Pvt. Ltd. (Dec 2025 – Present):** Full-time engineering developing and deploying production web systems, modular React interfaces, and backend services.
+- **Rohini College of Engineering & Technology (2020 – 2024):** Bachelor of Engineering in Computer Science and Engineering with an 8.105 CGPA.
+
+### 4. 🚀 Featured Live Client Projects
+Directly connected to real-world live applications:
+- **[Neurostore – Full-Stack E-Commerce Platform](https://neurostore.in/):**
+  - Modular React.js frontend architecture and secure Python/Flask microservices deployed on Microsoft Azure.
+  - Live Website: [https://neurostore.in/](https://neurostore.in/)
+- **[Jubilant – Dynamic Web Store](https://jubilantech.com/):**
+  - Interactive catalog, cart state resolution, and responsive real-time inventory synchronization.
+  - Live Website: [https://jubilantech.com/](https://jubilantech.com/)
+
+### 5. 📄 Official Resume Download Center
+- Dedicated resume hub featuring document specifications (PDF · 87.7 KB).
+- **One-Click Download:** Downloads verified `Gowtham_E_Resume.pdf`.
+- **Browser Preview:** Direct inspection tab before download.
+
+### 6. 📬 Connected Contact Form & Developer Terminal
+- **Direct Email Dispatch:** Connected to `dr.gowtham253@gmail.com` via FormSubmit with automated client confirmations and reply-to headers.
+- **Interactive Feedback:** Confetti celebration and delivery status indicators.
+- **Interactive Dev Terminal (`ContactDock`):** Floating command-line interface supporting `help`, `resume`, `skills`, `projects`, `experience`, `education`, `contact`, and `clear`.
+
+---
+
+## 🛠️ Technology Stack
+
+| Layer | Tools & Libraries |
 | :--- | :--- |
-| **Frontend Framework** | React 19 + Vite |
-| **Styling** | Tailwind CSS (custom keyframes & glassmorphism) |
-| **Motion & Physics** | Framer Motion + Canvas API + `requestAnimationFrame` |
-| **Icons** | Lucide-React |
-| **CI/CD & Hosting** | Vercel (Edge-optimized) + GitHub Actions |
+| **Frontend Framework** | React 19, Vite 8.3 |
+| **Styling & Theme** | Modern Vanilla CSS + Tailwind CSS (Warm Palette: `#EAE6DC`, `#0F1624`, `#C9973E`) |
+| **Interactive Canvas** | Zero-G Particle Physics Canvas (`BackgroundCanvas.jsx`) |
+| **Icons & Micro-Interactions** | Lucide-React, Canvas Confetti |
+| **Hosting & Deployments** | Vercel (Edge Network) + GitHub Pages (GitHub Actions) |
 
 ---
 
-## 🚀 Quick Start & Local Development
+## 💻 Local Setup & Development
 
-### Prerequisites
-- Node.js `v18+` or `v20+`
-- npm `v9+`
-
-### Installation
+### 1. Clone the repository
 ```bash
-# 1. Clone repository
-git clone https://github.com/gowtham-dev/portfolio.git
-cd portfolio
-
-# 2. Install dependencies
-npm install
-
-# 3. Start development server
-npm run dev
+git clone https://github.com/Gowtham-E2003/Portfolio.git
+cd Portfolio
 ```
 
-Visit `http://localhost:5173` in your browser.
-
----
-
-## 📦 Production Build
-
+### 2. Install dependencies
 ```bash
-# Run production build
-npm run build
+npm install
+```
 
-# Preview production bundle locally
+### 3. Start development server
+```bash
+npm run dev
+```
+Open `http://localhost:5173` in your browser.
+
+### 4. Production build & preview
+```bash
+npm run build
 npm run preview
 ```
 
 ---
 
-## 🌐 Deploy to Vercel (One-Click)
+## 🚀 Deployment Instructions
 
-This project contains a pre-configured `vercel.json` file ready for automatic deployment:
+### Automatic CI/CD with GitHub Pages
+Any commit pushed to the `main` branch automatically triggers `.github/workflows/deploy.yml` to build and publish the latest build to:
+👉 **[https://gowtham-e2003.github.io/Portfolio/](https://gowtham-e2003.github.io/Portfolio/)**
 
-1. Push your code to your GitHub repository.
-2. Go to [vercel.com/new](https://vercel.com/new).
-3. Import your GitHub repository.
-4. Framework Preset will automatically detect **Vite**.
-5. Click **Deploy**.
-
-### Automatic CI/CD
-A GitHub Actions workflow is included at `.github/workflows/deploy-check.yml`. Every `push` and `pull_request` to `main` executes an automated dependency install and build verification check.
-
----
-
-## 📁 Project Structure
-
-```text
-├── .github/
-│   └── workflows/
-│       └── deploy-check.yml     # Automated build verification CI
-├── public/
-│   └── favicon.svg              # Zero-G orbital favicon
-├── src/
-│   ├── components/
-│   │   ├── BackgroundCanvas.jsx # Interactive particle canvas with mouse repel
-│   │   ├── ContactDock.jsx      # Micro-terminal & quick copy floating dock
-│   │   ├── Experience.jsx       # Coordinate beam timeline & philosophy
-│   │   ├── Hero.jsx             # 3D interactive code block & launchpad
-│   │   ├── Navbar.jsx           # Floating frosted glass navigation
-│   │   ├── Projects.jsx         # 3D perspective cards with architecture modal
-│   │   └── TechOrbit.jsx        # Floating skill badges with energy tether
-│   ├── App.jsx                  # Master portfolio view
-│   ├── index.css                # Tailwind directives & cosmic glass utilities
-│   └── main.jsx                 # React root render
-├── index.html                   # HTML entry point with Google Fonts & SEO
-├── package.json                 # Project dependencies & scripts
-├── postcss.config.js            # PostCSS configuration
-├── tailwind.config.js           # Cosmic color tokens & zero-g keyframes
-├── vercel.json                  # Single-page app routing & cache configuration
-├── vite.config.js               # Vite bundler config
-└── README.md                    # Project documentation
-```
+### Deploying to Vercel
+1. Link your GitHub repository at [vercel.com](https://vercel.com).
+2. Framework Preset will auto-detect **Vite**.
+3. Deploy to your custom Vercel domain:
+👉 **[https://portfolio-woad-six-77.vercel.app/](https://portfolio-woad-six-77.vercel.app/)**
 
 ---
 
-## 📜 License
-Distributed under the MIT License.
+## 📜 License & Copyright
+
+© 2026 Gowtham E. All rights reserved.
+Developed for professional portfolio representation and client engagements.
