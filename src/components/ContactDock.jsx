@@ -196,7 +196,7 @@ export default function ContactDock({ isOpen, onOpen, onClose }) {
         newHistory.push({
           type: 'output',
           text: `[Online Profiles]:\n` +
-            `  GitHub:   https://github.com/rkmessigb\n` +
+            `  GitHub:   https://github.com/Gowtham-E2003\n` +
             `  LinkedIn: https://linkedin.com/in/gowtham-e-62733b333`,
         });
         break;

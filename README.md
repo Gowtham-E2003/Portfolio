@@ -31,7 +31,7 @@
 - **Direct Email:** [dr.gowtham253@gmail.com](mailto:dr.gowtham253@gmail.com)
 - **Direct Phone:** +91 6369998633
 - **LinkedIn:** [gowtham-e-62733b333](https://linkedin.com/in/gowtham-e-62733b333)
-- **GitHub:** [rkmessigb](https://github.com/rkmessigb) / [Gowtham-E2003](https://github.com/Gowtham-E2003)
+- **GitHub:** [Gowtham-E2003](https://github.com/Gowtham-E2003)
 
 ---
 
@@ -50,8 +50,15 @@
 - **Staunch Technologies Pvt. Ltd. (Dec 2025 – Present):** Full-time engineering developing and deploying production web systems, modular React interfaces, and backend services.
 - **Rohini College of Engineering & Technology (2020 – 2024):** Bachelor of Engineering in Computer Science and Engineering with an 8.105 CGPA.
 
-### 4. 🚀 Featured Live Client Projects
-Directly connected to real-world live applications:
+### 4. 🚀 Featured Technical Projects
+Directly connected to verified repositories and live applications:
+- **[Creator Bridge – Mobile-First Creator Order Platform](https://creator-bridge-alpha.vercel.app):**
+  - High-converting creator bridge web app optimized for in-app WebViews (Instagram & TikTok) with dual dynamic views and native Web Share.
+  - Live Website: [https://creator-bridge-alpha.vercel.app](https://creator-bridge-alpha.vercel.app)
+  - GitHub Repository: [https://github.com/Gowtham-E2003/creator-bridge](https://github.com/Gowtham-E2003/creator-bridge)
+- **[FORGE-PC – PC Configuration & Compatibility Engine](https://github.com/Gowtham-E2003/FORGE-PC):**
+  - Interactive custom PC builder wizard with real-time socket matching, TDP power calculations, and Supabase cloud persistence.
+  - GitHub Repository: [https://github.com/Gowtham-E2003/FORGE-PC](https://github.com/Gowtham-E2003/FORGE-PC)
 - **[Neurostore – Full-Stack E-Commerce Platform](https://neurostore.in/):**
   - Modular React.js frontend architecture and secure Python/Flask microservices deployed on Microsoft Azure.
   - Live Website: [https://neurostore.in/](https://neurostore.in/)

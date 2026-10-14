@@ -122,8 +122,8 @@ export default function ContactSection() {
                 {
                   icon: '⌨',
                   label: 'GitHub',
-                  value: 'github.com/rkmessigb',
-                  href: 'https://github.com/rkmessigb',
+                  value: 'github.com/Gowtham-E2003',
+                  href: 'https://github.com/Gowtham-E2003',
                 },
                 {
                   icon: '📍',
